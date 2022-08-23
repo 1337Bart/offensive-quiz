@@ -1,3 +1,7 @@
+# Please don't use this if you get easily offended!!
+
+This is a joke created for OOP training purposes. DO NOT take the printouts seriously!
+
 Offensive quiz
 
 Run this file using python quiz.py in terminal.
